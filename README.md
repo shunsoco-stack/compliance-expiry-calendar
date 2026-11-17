@@ -42,13 +42,17 @@ https://compliance-expiry-calendar.vercel.app
 
 ## スクリーンショット
 
-| 画面           | 画像                                              |
-| -------------- | ------------------------------------------------- |
-| ダッシュボード | [01-dashboard](docs/screenshots/01-dashboard.png) |
-| カレンダー     | [02-calendar](docs/screenshots/02-calendar.png)   |
-| リマインド     | [03-reminders](docs/screenshots/03-reminders.png) |
-| 実施記録       | [04-record](docs/screenshots/04-record.png)       |
-| 期限一覧       | [05-items](docs/screenshots/05-items.png)         |
+![ダッシュボード](docs/screenshots/01-dashboard.png)
+
+04はスマートフォン幅（390×844）、それ以外はデスクトップ幅（1440px）で公開URLから撮影しています。
+
+| 画面                       | 画像                                              |
+| -------------------------- | ------------------------------------------------- |
+| ダッシュボード             | [01-dashboard](docs/screenshots/01-dashboard.png) |
+| カレンダー                 | [02-calendar](docs/screenshots/02-calendar.png)   |
+| リマインド                 | [03-reminders](docs/screenshots/03-reminders.png) |
+| 実施記録（スマホ 390×844） | [04-record](docs/screenshots/04-record.png)       |
+| 期限一覧                   | [05-items](docs/screenshots/05-items.png)         |
 
 ## ローカル起動方法
 
